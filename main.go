@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func init() {
 	fmt.Println("testmod1")
 }
 func F1() string {
